@@ -1,0 +1,82 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Long Lined Cover Letter
+% LaTeX Template
+% Version 1.0 (1/6/13)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Matthew J. Miller
+% http://www.matthewjmiller.net/howtos/customized-cover-letter-scripts/
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[10pt,stdletter,dateno,sigleft]{newlfm} % Extra options: 'sigleft' for a left-aligned signature, 'stdletternofrom' to remove the from address, 'letterpaper' for US letter paper - consult the newlfm class manual for more options
+
+%\usepackage{charter} % Use the Charter font for the document text
+
+\newlfmP{footermarginsize=50pt}
+\newlfmP{sigsize=20pt} % Slightly decrease the height of the signature field
+\newlfmP{addrfromphone} % Print a phone number under the sender's address
+\newlfmP{addrfromemail} % Print an email address under the sender's address
+\PhrPhone{Phone} % Customize the "Telephone" text
+\PhrEmail{Email} % Customize the "E-mail" text
+
+%\lthUiuc % Print the company/institution logo
+
+%----------------------------------------------------------------------------------------
+%	YOUR NAME AND CONTACT INFORMATION
+%----------------------------------------------------------------------------------------
+
+\namefrom{Juan Gallego-Calderon, Ph.D.} % Name
+
+\addrfrom{Juan Gallego-Calderon, Ph.D. \\
+\today\\[12pt] % Date
+}
+
+\phonefrom{+45 81941263} % Phone number
+
+\emailfrom{jugc@dtu.dk}
+\emailfrom{jugc@dtu.dk \\ (jfgallego2@gmail.com)}
+%----------------------------------------------------------------------------------------
+%	ADDRESSEE AND GREETING/CLOSING
+%----------------------------------------------------------------------------------------
+
+
+\greetto{Dear Hiring Manager,} % Greeting text
+\closeline{Sincerely yours,} % Closing text
+
+\nameto{To whom it may concern} % Addressee of the letter above the to address
+
+\addrto{
+Envision Energy \\ % To address
+Boulder, CO
+}
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+\begin{newlfm}
+
+%----------------------------------------------------------------------------------------
+%	LETTER CONTENT
+%----------------------------------------------------------------------------------------
+
+Enclosed is my application to be considered for the position of Wind Turbine Loads Engineer. I feel extremely qualified for this position because of my formal doctoral training in engineering and my research experience in wind energy. I have an interdisciplinary education that includes electrical, mechanical and computer engineering that I am sure will be of great use to continue and improve the efforts in Envision Energy.
+
+From my experience during the Ph.D. degree and postdoctoral position, I feel I have acquired the skills that make me eligible for this position. During my Ph.D. I gained experience in the use of aerolastic software and the implementation of multibody dynamics models. The outcome of my dissertation was based on an electromechanical drivetrain simulation tool I developed. The tool was programmed in Matlab and it is coupled to an external software in order to simulate the entire wind turbine. This co-simulation approach opens the door for the implementation of interdisciplinary models including electrical, mechanical and aeroelastic systems. In addition to model development and implementation, machine controls were necessary in order to maintain stability in the entire system. The tool is being used to estimate the loading in the internal components of the drivetrain, such as gears, bearings and shafts, while having different sources of excitation, such us the turbulent wind, gusts and grid dynamics. Moreover, the turbine's structural loads were also affected by the grid events and the added flexibilities in the drivetrain model. This allowed me to explore different disciplines such as electric machines, system dynamics, control and mechanics. In addition to my research experience during my studies at DTU, I was able to visit the National Renewable Energy Laboratory (NREL) for three months to carry out my external stay of research. During this time, I was interacting with some of the top researches and engineers in the field of wind energy. This experience was an epiphany during my Ph.D. studies since I was able to not only validate my models with state-of-the-art research facilities, but also to build a software capable of simulating the gearbox dynamics, while coupled with a dynamic model of a generator.
+
+In summary, I feel I have the interdisciplinary skills that are necessary to excel in this position. Thank you for taking the time to consider my application and I look forward to hearing from you in the near future.
+
+%----------------------------------------------------------------------------------------
+
+\end{newlfm}
+\end{document}
