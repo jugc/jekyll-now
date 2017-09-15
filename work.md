@@ -7,7 +7,6 @@ permalink: /work/
 
 The projects detailed in this section, intend to illustrate the main methods, tools and results obtained during my academic career. Some of the results were published in peer-reviewed journals, and others are code that was developed during my Ph.D. and subsequent years. Due to NDAs, it is not possible to share all the code, unfortunately.
 
-
 ## Publications
 
 1. **Gallego-Calderon, J.**, Natarajan A and Cutululis, N. (2016) *[“Ultimate design load analysis of gearbox bearings under extreme loading.”](http://onlinelibrary.wiley.com/wol1/doi/10.1002/we.2008/full)* Wind Energy, 1099-1824.
