@@ -15,7 +15,7 @@ On a more personal level, I am a fan of local beer (especially IPAs), dogs, trav
 
 ### What am I up to now?
 
-I am in the process of a life re-start in California. After working in academia for over four years, I am ready to move to the industry. Currently, I am brushing up my statistics and getting up to speed in the tools used in industry, so I can transition to a career in **Data Science**.
+I am in the process of a life re-start in California. After living in Europe (Denmark and Switzerland) for over four years, I am ready to move closer to home. Currently, I am brushing up my statistics and getting up to speed in the tools used in industry, so I can transition to a career in **Data Science**.
 
 1. For statistics, I am following the [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about) course by Standford. Personally, I enjoy the academic approach taken by the course and that it uses R. I am not too familiar with R yet, because I have been using python until now. This will force me to learn another useful language for a Data Science career.
 2. For programming, I am continuously learning about python and recently began learning R. In addition, I am forcing myself to become familiar with SQL queries since I never used it during my Ph.D. and postdocs. I was accessing the data in the cluster via terminal, but I never had an SQL database.
