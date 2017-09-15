@@ -3,6 +3,10 @@ layout: page
 title: Work
 permalink: /work/
 ---
+## Projects
+
+The projects detailed in this section, intend to illustrate the main methods, tools and results obtained during my academic career. Some of the results were published in peer-reviewed journals, and others are code that was developed during my Ph.D. and subsequent years. Due to NDAs, it is not possible to share all the code, unfortunately.
+
 
 ## Publications
 
