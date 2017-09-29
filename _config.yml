@@ -6,7 +6,7 @@
 name: Juan Gallego-Calderon
 
 # Short bio or description (displayed in the header)
-description: Wind Energy Researcher
+description: Wind Energy Researcher/Aspirant Data Scientist
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars.githubusercontent.com/jugc
@@ -17,7 +17,7 @@ avatar: https://avatars.githubusercontent.com/jugc
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: jfgallego2@gmail.com
+  email: jf.gallego.calderon@gmail.com
   facebook:
   flickr:
   github: jugc
@@ -47,7 +47,7 @@ url: https://jugc.github.io
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/about"
+baseurl: ""
 
 #
 # !! You don't need to change any of the configuration flags below !!
